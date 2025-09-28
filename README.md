@@ -24,3 +24,5 @@ This project analyzes **bike sales data** to uncover insights into customer demo
 1. Download the repository or clone it:  
    ```bash
    git clone https://github.com/your-username/bike-sales-analysis.git
+
+   <img width="1576" height="896" alt="Image" src="https://github.com/user-attachments/assets/5aba64b3-a479-41cd-9919-4a2847e88279" />
